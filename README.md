@@ -10,6 +10,7 @@ Centro: Universitat Oberta de Catalunya
 Fecha: 23 de mayo de 2023 
  
 ---
+![UOC](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Logotipo_UOC.svg/1200px-Logotipo_UOC.svg.png) 
  
 ## Planteamiento: La Hibridación
 
@@ -20,6 +21,8 @@ La hibridación se ha convertido en un concepto fundamental para describir la fo
 La hibridación también se produce a nivel de interacción y participación. Las plataformas digitales y las redes sociales permiten la colaboración y la co-creación, donde los usuarios pueden contribuir, modificar y compartir contenido de manera activa. Esto lleva a una hibridación de voces y perspectivas, donde las ideas y la creatividad se mezclan y se generan nuevas formas de expresión.
 
 En el campo educativo, podemos observar cómo las tecnologías digitales están transformando la forma en que aprendemos y enseñamos. En este contexto, la hibridación se refiere a la convergencia de diferentes medios, herramientas y enfoques pedagógicos en el entorno educativo. La educación ha experimentado una profunda transformación impulsada por la digitalización y la integración de tecnologías en el aula. La hibridación en el campo educativo implica la combinación de métodos tradicionales de enseñanza con herramientas digitales y enfoques pedagógicos innovadores. Esta fusión busca aprovechar los beneficios de ambas modalidades para mejorar el proceso de enseñanza-aprendizaje. Las tecnologías digitales juegan un papel fundamental al proporcionar recursos y herramientas interactivas que enriquecen la experiencia educativa, las plataformas en línea y las aplicaciones móviles permiten acceder a contenido educativo variado, adaptado a diferentes estilos de aprendizaje y que fomenta la participación activa de los estudiantes.
+
+![Gafas de Manovich](https://img.freepik.com/foto-gratis/gafas-inteligentes-lentes-interactivos-viendo-futuro_53876-101153.jpg?w=740&t=st=1684967383~exp=1684967983~hmac=17cb1882bef1913226997ee917b94606260c60438cccac53a2b2ad48b617bc54) 
 
 ---
 
@@ -36,6 +39,9 @@ Duolingo es un ejemplo destacado de hibridación moderna en el ámbito educativo
 La colaboración colectiva en Duolingo a través del crowdsourcing ha creado una comunidad global de aprendices de idiomas que comparten y contribuyen al contenido de la plataforma. Esta colaboración no solo mejora la calidad de las lecciones y ejercicios, sino que también fomenta el intercambio cultural y la conexión entre personas de diferentes partes del mundo.
 
 Duolingo ha demostrado que la tecnología puede desempeñar un papel clave en la mejora de la accesibilidad y la efectividad del aprendizaje de idiomas, al tiempo que fomenta la colaboración global y la motivación de los usuarios.
+
+![Aprendizaje de idiomas](https://cdn.pixabay.com/photo/2019/11/23/16/14/language-4647558_1280.png) 
+
 ___
 
 ## ClassDojo: Hibridación en la educación digital 
@@ -48,6 +54,8 @@ La gamificación es otro aspecto fundamental de ClassDojo. Los estudiantes puede
 Además de su impacto en el aula, ClassDojo también ha promovido la participación de los padres en la educación de sus hijos. Los padres pueden acceder a la plataforma para ver actualizaciones sobre el progreso académico y el comportamiento de sus hijos, lo que les permite involucrarse de manera más activa en su educación. Esto fortalece la relación entre la escuela y el hogar, creando un ambiente de colaboración y apoyo para el estudiante.
 
 ClassDojo es un ejemplo claro de cómo la hibridación moderna está transformando la educación. Al combinar tecnología, psicología educativa y gamificación, esta plataforma ha creado un entorno de aprendizaje interactivo y motivador y ha demostrado ser una herramienta valiosa para mejorar la comunicación, fomentar el buen comportamiento y fortalecer la participación de los padres en la educación de sus hijos.
+
+![Aulas virtuales](https://cdn.pixabay.com/photo/2016/02/06/09/56/science-1182713_1280.jpg) 
 ___
 
 ## Conclusión:
