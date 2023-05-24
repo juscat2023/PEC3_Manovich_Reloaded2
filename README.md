@@ -56,18 +56,24 @@ La hibridación en la época actual es un fenómeno dinámico que está dando fo
 Tanto ClassDojo como Duolingo son ejemplos de hibridación actual en el campo educativo, ya que combinan elementos tradicionales con tecnologías digitales para ofrecer experiencias de aprendizaje enriquecidas y efectivas. La interacción docente-estudiante con tecnologías digitales mejoran y amplían las posibilidades de aprendizaje fomentando la participación activa de los estudiantes y promoviendo un aprendizaje más efectivo.
 ___
 
-### Referencias y Bibliografía
-•	Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
-•	García-Valcárcel, A., & Tejedor, F. J. (2016). Tecnología educativa y transformación digital de la educación. Ediciones Pirámide.
-•	Aguaded, I., & Gómez, I. (2017). Competencia mediática en la sociedad digital. Ediciones Aljibe.
-** Sitios web:
+### Referencias y Bibliografía: 
+1.- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
+
+2.- García-Valcárcel, A., & Tejedor, F. J. (2016). Tecnología educativa y transformación digital de la educación. Ediciones Pirámide.
+
+3.- Aguaded, I., & Gómez, I. (2017). Competencia mediática en la sociedad digital. Ediciones Aljibe.
+
+
+Sitios web:
 1.	Educación 3.0 (www.educaciontrespuntocero.com)
-•	Portal educativo en español que ofrece noticias, artículos y recursos sobre la integración de tecnologías en la educación.
+Portal educativo en español que ofrece noticias, artículos y recursos sobre la integración de tecnologías en la educación.
+
 2.	Fundación Telefónica Educación (www.educacion.fundaciontelefonica.com)
-•	Sitio web de la Fundación Telefónica con información y recursos sobre educación digital y uso de tecnologías en el ámbito educativo.
+Sitio web de la Fundación Telefónica con información y recursos sobre educación digital y uso de tecnologías en el ámbito educativo.
+
 3.	INTEF (Instituto Nacional de Tecnologías Educativas y de Formación del Profesorado) (www.intef.es)
-•	Organismo público en España dedicado a promover el uso de tecnologías en la educación. El sitio web ofrece materiales y recursos relacionados con la integración de tecnología en el aula.
+Organismo público en España dedicado a promover el uso de tecnologías en la educación. El sitio web ofrece materiales y recursos relacionados con la integración de tecnología en el aula.
 ________________________________________
-* Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY pixabay, freepik. *
+* Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY pixabay, freepik.
 
 ----
