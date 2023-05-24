@@ -23,7 +23,7 @@ En el campo educativo, podemos observar cómo las tecnologías digitales están 
 
 ---
 
-### Duolingo: La hibridación en el aprendizaje de idiomas
+## Duolingo: La hibridación en el aprendizaje de idiomas
 Duolingo es una plataforma de aprendizaje de idiomas en línea que combina elementos de gamificación, inteligencia artificial y crowdsourcing. Su objetivo principal es proporcionar a los usuarios una forma interactiva y efectiva de aprender un nuevo idioma de manera gratuita. Duolingo aprovecha la hibridación moderna al fusionar tecnología, pedagogía y participación colectiva.
 
 Una de las características más destacadas de Duolingo es su enfoque gamificado para el aprendizaje de idiomas. Los usuarios pueden completar lecciones y ejercicios que están diseñados en forma de juegos, lo que los hace más atractivos y entretenidos. A medida que avanzan en su aprendizaje, los usuarios ganan puntos, desbloquean niveles y reciben recompensas virtuales, lo que aumenta su motivación y compromiso con el proceso de aprendizaje.
@@ -38,7 +38,7 @@ La colaboración colectiva en Duolingo a través del crowdsourcing ha creado una
 Duolingo ha demostrado que la tecnología puede desempeñar un papel clave en la mejora de la accesibilidad y la efectividad del aprendizaje de idiomas, al tiempo que fomenta la colaboración global y la motivación de los usuarios.
 ___
 
-### ClassDojo: Hibridación en la educación digital 
+## ClassDojo: Hibridación en la educación digital 
 ClassDojo es una plataforma de gestión del aula que combina elementos de comunicación, seguimiento del comportamiento y gamificación para crear un entorno de aprendizaje interactivo. Su objetivo principal es mejorar la comunicación entre profesores, estudiantes y padres, y promover el desarrollo de habilidades sociales y emocionales en el aula. Aprovecha la hibridación moderna al fusionar tecnología, psicología educativa y gamificación.
 
 Una de las características distintivas es su capacidad para fomentar la participación y la interacción en el aula. Los profesores pueden utilizar la plataforma para enviar mensajes y anuncios a los estudiantes y a sus padres, lo que facilita la comunicación en tiempo real y mejora la colaboración entre las partes interesadas. Permite a los profesores realizar un seguimiento del comportamiento de los estudiantes y asignar puntos positivos o negativos según su desempeño. Esto promueve la responsabilidad y el autocontrol en los estudiantes, al tiempo que brinda a los profesores una herramienta para reconocer y reforzar el buen comportamiento.
@@ -50,13 +50,13 @@ Además de su impacto en el aula, ClassDojo también ha promovido la participaci
 ClassDojo es un ejemplo claro de cómo la hibridación moderna está transformando la educación. Al combinar tecnología, psicología educativa y gamificación, esta plataforma ha creado un entorno de aprendizaje interactivo y motivador y ha demostrado ser una herramienta valiosa para mejorar la comunicación, fomentar el buen comportamiento y fortalecer la participación de los padres en la educación de sus hijos.
 ___
 
-### Conclusión
+## Conclusión:
 La hibridación en la época actual es un fenómeno dinámico que está dando forma a la cultura digital y está redefiniendo la forma en que interactuamos con los medios y la tecnología y en el campo educativo se refiere a la combinación de medios digitales, enfoques pedagógicos innovadores y métodos tradicionales de enseñanza para crear un entorno de aprendizaje enriquecido. Esta convergencia busca aprovechar las ventajas de la tecnología para mejorar la experiencia educativa, promoviendo la participación activa, la colaboración y el desarrollo de habilidades relevantes para el siglo XXI.
 
 Tanto ClassDojo como Duolingo son ejemplos de hibridación actual en el campo educativo, ya que combinan elementos tradicionales con tecnologías digitales para ofrecer experiencias de aprendizaje enriquecidas y efectivas. La interacción docente-estudiante con tecnologías digitales mejoran y amplían las posibilidades de aprendizaje fomentando la participación activa de los estudiantes y promoviendo un aprendizaje más efectivo.
 ___
 
-### Referencias y Bibliografía: 
+## Referencias y Bibliografía: 
 1.- Manovich, Lev. (2013). El Software toma el mando. Barcelona: Editorial UOC.
 
 2.- García-Valcárcel, A., & Tejedor, F. J. (2016). Tecnología educativa y transformación digital de la educación. Ediciones Pirámide.
@@ -64,7 +64,7 @@ ___
 3.- Aguaded, I., & Gómez, I. (2017). Competencia mediática en la sociedad digital. Ediciones Aljibe.
 
 
-Sitios web:
+### Sitios web:
 1.	Educación 3.0 (www.educaciontrespuntocero.com)
 Portal educativo en español que ofrece noticias, artículos y recursos sobre la integración de tecnologías en la educación.
 
