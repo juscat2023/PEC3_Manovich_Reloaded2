@@ -1,7 +1,7 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 # La Hibridación en el campo educativo: Duolingo y Classdojo.
 
-### <image src="/img/Logo_blau_uoc.png" alt="Logo de UOC" width="25px" height="20px" margin="0px"> Cultura Digital **
+### <image src="logoUOC(1).png" alt="Logo de UOC" width="25px" height="20px" margin="0px"> Cultura Digital **
 Autor: Justino Gato
 Asignatura: Cultura Digital
 Centro: Universitat Oberta de Catalunya
